@@ -78,11 +78,12 @@ h4 {
 }
 
 a {
-    color:#FFFFFF;
+    color:#282827;
+    text-decoration: underline;
 }
 
 a:hover {
-    color:#0b8661;
+    color:#666;
 }
 
 p {
