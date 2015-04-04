@@ -12,7 +12,7 @@ if(isset($_POST['contact-email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "stevenmurrayr@gmail.com";
+    $email_to = "austinlouden@gmail.com";
  
     $email_subject = "DDC Contact Form";
  
@@ -115,8 +115,8 @@ $headers = 'From: '.$email_from."\r\n".
  
 <!-- include your own success html here -->
 
-
-<p>Thank you for contacting the Digital Debate Camp. We will be in touch with you soon.</p>
+<h2>Sucess</h2>
+<p>Thank you for contacting the Digital Debate Camp. We'll be in touch with you soon.</p>
     
          
  

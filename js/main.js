@@ -65,11 +65,13 @@ menuItem.onclick = function() {
                 return false;
             }); 
          
-         
+         // CONTROLS THE SCOLLING FROM THE MAIN BUTTON TO THE ABOUT SECTION
+         /*
          $('#btn-arrow').click(function () {
             $.scrollTo('#about',800,{easing:'easeInOutExpo',offset:0,'axis':'y'});
             
         }); 
+        */
      
 //#################################################
 //Elements fading in ##############################
